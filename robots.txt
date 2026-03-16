@@ -1,7 +1,9 @@
 User-agent: *
 Allow: /
 
-Disallow: /*.json$
-Disallow: /*.py$
+Disallow: /species.json
+Disallow: /region.json
+Disallow: /species_mapping.json
+Disallow: /update_species.py
 
 Sitemap: https://ebird.siansiansu.com/sitemap.xml
